@@ -1,1 +1,11 @@
+p {
+  font-size: 16pt;
+  line-height: 1.5;
+  font-family: Times New Roman;
+  margin-bottom: 10px;
+}
+
+.profile p { 
+  text-align: left;
+}
 
